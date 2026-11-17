@@ -1,4 +1,4 @@
-# Exclude compiled files and generated backups from Git.
+# Keep compiled programs and generated backup files out of the repo.
 *.o
 /server
 /test_client

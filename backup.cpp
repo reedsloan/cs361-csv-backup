@@ -1,3 +1,5 @@
+// Copies a CSV into a backups folder beside the original.
+// Each copy gets a number so earlier backups are kept.
 #include "backup.h"
 #include <string>
 
