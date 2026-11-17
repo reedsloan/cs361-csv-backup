@@ -1,0 +1,5 @@
+# Exclude compiled files and generated backups from Git.
+*.o
+/server
+/test_client
+/backups/
